@@ -1,0 +1,2 @@
+CREATE USER [redgate_monitor] WITHOUT LOGIN
+GO
